@@ -1,0 +1,19 @@
+{
+  "name": "castle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaldoDoesTech/castle.git"
+  },
+  "author": "Waldo van Wyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WaldoDoesTech/castle/issues"
+  },
+  "homepage": "https://github.com/WaldoDoesTech/castle#readme"
+}
